@@ -1,5 +1,5 @@
 {
-  "name": "@pynbiang.l.r/testlibrary",
+  "name": "@Pynbiangborlang/testlibrary",
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"
