@@ -4,7 +4,7 @@
     "access": "public",
     "registry": "https://github.com/Pynbiangborlang/testLibrary"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "test library",
   "scripts": {
     "rollup": "rollup -c"
