@@ -2,7 +2,7 @@
   "name": "@pynbiang.l.r/testlibrary",
   "publishConfig": {
     "access": "public",
-    "registry": "https://github.com/Pynbiangborlang/testLibrary"
+    "registry": "https://npm.pkg.github.com"
   },
   "version": "0.1.1",
   "description": "test library",
@@ -36,5 +36,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/Pynbiangborlang/testLibrary"
+  }
 }
